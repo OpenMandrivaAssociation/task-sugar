@@ -11,6 +11,8 @@ Url: http://sugarlabs.org/
 Requires: sugar-glucose
 Suggests: sugar-fructose
 
+BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-root-%(%{__id_u} -n)
+
 %description
 Metapackage for Sugar
 
