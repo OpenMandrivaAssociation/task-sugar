@@ -16,6 +16,7 @@ Requires: gstreamer0.10-plugins-good
 Requires: libxml2-python  
 Requires: python-numpy  
 Requires: olpcsound  
+Requires: python-olpcsound  
 Requires: pygame  
 
 BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-root-%(%{__id_u} -n)
