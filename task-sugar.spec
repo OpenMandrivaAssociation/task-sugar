@@ -2,7 +2,7 @@
 
 Name: task-sugar
 Version: 0.84.0
-Release: %mkrel 2
+Release: %mkrel 3
 Summary: Sugar Platform
 License: GPL
 Group: Graphical desktop/Other
@@ -25,6 +25,9 @@ BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-root-%(%{__id_u} -n)
 The Sugar Platform is a set of versioned components on which activity
 authors can rely when targeting their activities to run on a particular
 Sugar version.
+Installing Sugar Platform should mean for user that he can download actities
+from http://activities.sugarlabs.org/ and they won't be failed due to
+missed dependencies.
 
 %files
 %defattr(-,root,root,-)
