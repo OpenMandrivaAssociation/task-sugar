@@ -2,13 +2,13 @@
 
 Name: task-sugar
 Version: 0.84.1
-Release: %mkrel 1
+Release: %mkrel 2
 Summary: Sugar Platform
 License: GPL
 Group: Graphical desktop/Other
 Url: http://sugarlabs.org/
 
-Requires: sugar-fructose >= 0.84.1
+Requires: sugar-fructose >= 0.84.0
 Requires: sugar-glucose >= 0.84.1
 Requires: gstreamer0.10-plugins-base  
 Requires: gstreamer0.10-espeak >= 0.3.1
