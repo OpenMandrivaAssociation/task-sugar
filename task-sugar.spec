@@ -2,7 +2,7 @@
 
 Name: task-sugar
 Version: 0.85.2
-Release: %mkrel 1
+Release: %mkrel 2
 Summary: Sugar Platform
 License: GPL
 Group: Graphical desktop/Other
