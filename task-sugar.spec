@@ -2,16 +2,16 @@
 #       See http://wiki.sugarlabs.org/go/Deployment_Team/jhconvert for details
 
 Name: task-sugar
-Version: 0.85.7
+Version: 0.86.0
 Release: %mkrel 1
 Summary: Sugar Platform
 License: GPL
 Group: Graphical desktop/Other
 Url: http://sugarlabs.org/
 
-Requires: etoys >= 4.0.2318
-Requires: sugar-fructose >= 0.85.7
-Requires: sugar-glucose >= 0.85.7
+Requires: etoys >= 4.0.2319
+Requires: sugar-fructose >= 0.86.0
+Requires: sugar-glucose >= 0.86.0
 Requires: gstreamer0.10-plugins-base  
 Requires: gstreamer0.10-espeak >= 0.3.3
 Requires: gstreamer0.10-plugins-good  
