@@ -3,7 +3,7 @@
 
 Name: task-sugar
 Version: 0.88.0
-Release: %mkrel 2
+Release: 3
 Summary: Sugar Platform
 License: GPL
 Group: Graphical desktop/Other
@@ -14,15 +14,12 @@ Requires: csound-python
 Requires: etoys >= 4.0.2340
 Requires: sugar-fructose >= 0.88.0
 Requires: sugar-glucose >= 0.88.0
-Requires: gnash-firefox-plugin  
 Requires: gstreamer0.10-plugins-base  
 Requires: gstreamer0.10-espeak >= 0.3.3
 Requires: gstreamer0.10-plugins-good  
 Requires: libxml2-python  
 Requires: python-numpy  
 Requires: pygame  
-
-BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-root-%(%{__id_u} -n)
 
 %description
 The Sugar Platform is a set of versioned components on which activity
@@ -33,5 +30,5 @@ from http://activities.sugarlabs.org/ and they won't be failed due to
 missed dependencies.
 
 %files
-%defattr(-,root,root,-)
+
 
