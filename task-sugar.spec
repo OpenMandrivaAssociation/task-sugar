@@ -2,8 +2,8 @@
 #       See http://wiki.sugarlabs.org/go/Deployment_Team/jhconvert for details
 
 Name:		task-sugar
-Version:	0.88.0
-Release:	4
+Version:	0.101.0
+Release:	1
 Summary:	Sugar Platform
 License:	GPL
 Group:		Graphical desktop/Other
@@ -14,9 +14,9 @@ Requires:	csound-python
 Requires:	etoys >= 4.0.2340
 Requires:	sugar-fructose >= 0.88.0
 Requires:	sugar-glucose >= 0.88.0
-Requires:	gstreamer0.10-plugins-base  
-Requires:	gstreamer0.10-espeak >= 0.3.3
-Requires:	gstreamer0.10-plugins-good  
+Requires:	gstreamer1.0-plugins-base  
+Requires:	gstreamer1.0-espeak >= 0.3.3
+Requires:	gstreamer1.0-plugins-good  
 Requires:	libxml2-python  
 Requires:	python-numpy  
 Requires:	pygame  
