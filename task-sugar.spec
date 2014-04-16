@@ -3,7 +3,7 @@
 
 Name:		task-sugar
 Version:	0.101.0
-Release:	1
+Release:	2
 Summary:	Sugar Platform
 License:	GPL
 Group:		Graphical desktop/Other
