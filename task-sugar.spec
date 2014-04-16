@@ -15,7 +15,7 @@ Requires:	etoys >= 4.0.2340
 Requires:	sugar-fructose >= 0.88.0
 Requires:	sugar-glucose >= 0.88.0
 Requires:	gstreamer1.0-plugins-base  
-Requires:	gstreamer1.0-espeak >= 0.3.3
+Requires:	gstreamer1.0-plugins-espeak
 Requires:	gstreamer1.0-plugins-good  
 Requires:	libxml2-python  
 Requires:	python-numpy  
