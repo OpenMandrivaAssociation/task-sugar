@@ -7,7 +7,7 @@ Release:	1
 Summary:	Sugar Platform
 License:	GPL
 Group:		Graphical desktop/Other
-Url:		http://sugarlabs.org/
+Url:		https://sugarlabs.org/
 
 Requires:	sugar-fructose >= 0.88.0
 Requires:	sugar-glucose >= 0.88.0
